@@ -7,8 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "UIImageView+WebCache.h"
-#import "SDImageCache.h"
+@import SDWebImage;
 
 @interface UIImageView (UIActivityIndicatorForSDWebImage)
 
